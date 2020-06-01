@@ -1,0 +1,1 @@
+bin/k8/classification_camera --model_path test_data/classification/mobilenet_v1_1.0_224_quant_edgetpu.tflite --label_path test_data/classification/imagenet_labels.txt --edgetpu
