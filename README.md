@@ -1,7 +1,9 @@
 # coral_edgetpu_video_inference
 
 ## Prerequisites:
-1. Front Cam or USB Cam connected to your computer with drivers preinstalled
+1. A linux machine, I tested this build on x86_64
+2. Front Cam or USB Cam connected to your computer with drivers preinstalled
+3. Optional - EdgeTPU for NN acceleration
 ## Dependencies: 
 Links attached for your reference
 1. [OpenCV](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-18-04/)
@@ -43,5 +45,14 @@ $ bash scripts/detection/detect_cpu.sh
 $ bash scripts/pose_estimation/pose_cpu_353x481.sh
 ```
 ## Preview 
-I apprently make use of Coral USB Accelerator and below are the results for your reference.
+I apprently mdae use of Coral USB Accelerator and below are the results for your reference.
+Click [here](https://github.com/Eashwar93/coral_edgetpu_video_inference/tree/master/gifs) to see the GIF Demos.
+
+## Credits
+1. [google-coral/edgetpu](https://github.com/google-coral/edgetpu)
+2. [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera/tree/master) 
+
+## Further Work
+1. A medium article on how to use Google TPU's and why do we need them.
+2. ROS wrapper to take advantage of the the TPU for robotics Naviagtion.
 
