@@ -1,5 +1,11 @@
 # coral_edgetpu_video_inference
 
+|Classification|Detection|Pose Estimation|
+---------------|---------|---------------|
+|<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/classification.gif" width="300" height="300" />|<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/detection.gif" width="300" height="300" />|<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/pose.gif" width="300" height="300" />|
+
+
+
 ## Prerequisites:
 1. A linux machine, I tested this build on x86_64
 2. Front Cam or USB Cam connected to your computer with drivers preinstalled
@@ -55,4 +61,3 @@ Click [here](https://github.com/Eashwar93/coral_edgetpu_video_inference/tree/mas
 ## Further Work
 1. A medium article on how to use Google TPU's and why do we need them.
 2. ROS wrapper to take advantage of the the TPU for Robot Naviagtion.
-
