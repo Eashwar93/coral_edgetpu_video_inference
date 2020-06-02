@@ -1,6 +1,6 @@
 # coral_edgetpu_video_inference
 
-|Classification|Detection|Pose Estimation|
+|Classification|Object Detection|Pose Estimation|
 ---------------|---------|---------------|
 |<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/classification.gif" width="300" height="300" />|<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/detection.gif" width="300" height="300" />|<img src="https://github.com/Eashwar93/coral_edgetpu_video_inference/blob/master/gifs/pose.gif" width="300" height="300" />|
 
