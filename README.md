@@ -31,7 +31,7 @@ $ make
 $ cd ..
 ```
 ## Usage:
-1. If you have a [Coral USB Accelerator](https://coral.ai/products/accelerator/) you run any of the following scripts else skip to Step 2:
+1. If you have a [Coral USB Accelerator](https://coral.ai/products/accelerator/) you can run any of the following scripts else skip to Step 2.
 The first script runs classification on a video stream,the second runs Object Detection and the third runs human pose estimation 
 ```bash
 $ bash scripts/classification/classify_edgetpu.sh
