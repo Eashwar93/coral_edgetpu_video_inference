@@ -45,7 +45,7 @@ $ bash scripts/detection/detect_cpu.sh
 $ bash scripts/pose_estimation/pose_cpu_353x481.sh
 ```
 ## Preview 
-I apprently mdae use of Coral USB Accelerator and below are the results for your reference.
+I apprently made use of Coral USB Accelerator and below are the results for your reference.
 Click [here](https://github.com/Eashwar93/coral_edgetpu_video_inference/tree/master/gifs) to see the GIF Demos.
 
 ## Credits
@@ -54,5 +54,5 @@ Click [here](https://github.com/Eashwar93/coral_edgetpu_video_inference/tree/mas
 
 ## Further Work
 1. A medium article on how to use Google TPU's and why do we need them.
-2. ROS wrapper to take advantage of the the TPU for robotics Naviagtion.
+2. ROS wrapper to take advantage of the the TPU for Robot Naviagtion.
 
